@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NovoChat/static/css/main.3ec6d255.css",
+    "main.js": "/NovoChat/static/js/main.9c30503d.js",
+    "index.html": "/NovoChat/index.html",
+    "main.3ec6d255.css.map": "/NovoChat/static/css/main.3ec6d255.css.map",
+    "main.9c30503d.js.map": "/NovoChat/static/js/main.9c30503d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ec6d255.css",
+    "static/js/main.9c30503d.js"
+  ]
+}
